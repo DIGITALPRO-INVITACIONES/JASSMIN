@@ -6,7 +6,7 @@ Diseño inspirado en el modelo ESTEFANIA: apertura con castillo, ilustración de
 La ilustración es decorativa: no representa una fotografía de Jassmin.
 Música: audio AAC proporcionado por la familia, convertido a MP3.
 
-CONFIRMACIÓN: WhatsApp +591 73305847. Formulario activo con nombre, asistencia y número de personas.
+CONFIRMACIÓN: WhatsApp +591 73305847. Formulario activo con nombre y asistencia (sin cantidad de personas).
 
 PUBLICAR EN GITHUB PAGES
 Subir el contenido de esta carpeta a la raíz del repositorio, incluidos assets, index.html, estilo.css, invitacion.js, config.js, evento.ics y .nojekyll. No subir el ZIP sin descomprimir. Activar Pages desde la rama principal.
@@ -16,3 +16,5 @@ ITINERARIO
 8 de noviembre: 00:00 torta, 01:00 conclusión del evento.
 Guindo y negro reservados para la quinceañera.
 DigitalPro: 79352293.
+
+Actualización: Rudy Álvaro Mondocorre Burgos y Paola Milenka Guardia Quino. Paleta guindo con más iluminación en escenarios, marcos y fondos.
